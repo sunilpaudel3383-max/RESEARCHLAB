@@ -1,0 +1,6 @@
+{
+  "name": "CivilLab - Civil Engineering Research Platform",
+  "description": "Collaborative research and publication workspace for civil, structural, geotechnical, and environmental engineering tasks, manuscripts, formulas, and experimental data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
